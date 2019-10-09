@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\source\repos\practica-06-Rodrigo-UNICAES\Guiapractica6\bin\Debug\Guiapractica6.exe.config
+C:\Users\Rodrigo\source\repos\practica-06-Rodrigo-UNICAES\Guiapractica6\bin\Debug\Guiapractica6.exe
+C:\Users\Rodrigo\source\repos\practica-06-Rodrigo-UNICAES\Guiapractica6\bin\Debug\Guiapractica6.pdb
+C:\Users\Rodrigo\source\repos\practica-06-Rodrigo-UNICAES\Guiapractica6\obj\Debug\Guiapractica6.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\practica-06-Rodrigo-UNICAES\Guiapractica6\obj\Debug\Guiapractica6.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\practica-06-Rodrigo-UNICAES\Guiapractica6\obj\Debug\Guiapractica6.exe
+C:\Users\Rodrigo\source\repos\practica-06-Rodrigo-UNICAES\Guiapractica6\obj\Debug\Guiapractica6.pdb
